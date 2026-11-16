@@ -13,3 +13,4 @@
 13_루소_올바른계약 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws24/13_%EB%A3%A8%EC%86%8C_%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B3%84%EC%95%BD.png
 14_루소_주권양도불가 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws24/14_%EB%A3%A8%EC%86%8C_%EC%A3%BC%EA%B6%8C%EC%96%91%EB%8F%84%EB%B6%88%EA%B0%80.png
 15_루소_일반의지_벤다이어그램 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws24/15_%EB%A3%A8%EC%86%8C_%EC%9D%BC%EB%B0%98%EC%9D%98%EC%A7%80_%EB%B2%A4%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png
+16_자연상태_스펙트럼 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws24/16_%EC%9E%90%EC%97%B0%EC%83%81%ED%83%9C_%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC.png
