@@ -14,3 +14,12 @@
 14_루소_주권양도불가 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws24/14_%EB%A3%A8%EC%86%8C_%EC%A3%BC%EA%B6%8C%EC%96%91%EB%8F%84%EB%B6%88%EA%B0%80.png
 15_루소_일반의지_벤다이어그램 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws24/15_%EB%A3%A8%EC%86%8C_%EC%9D%BC%EB%B0%98%EC%9D%98%EC%A7%80_%EB%B2%A4%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png
 16_자연상태_스펙트럼 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws24/16_%EC%9E%90%EC%97%B0%EC%83%81%ED%83%9C_%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC.png
+ws26/01_민주주의_어원 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws26/01_%EB%AF%BC%EC%A3%BC%EC%A3%BC%EC%9D%98_%EC%96%B4%EC%9B%90.png
+ws26/02_국민주권_두원칙 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws26/02_%EA%B5%AD%EB%AF%BC%EC%A3%BC%EA%B6%8C_%EB%91%90%EC%9B%90%EC%B9%99.png
+ws26/03_직접에서대의로 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws26/03_%EC%A7%81%EC%A0%91%EC%97%90%EC%84%9C%EB%8C%80%EC%9D%98%EB%A1%9C.png
+ws26/04_선호집합_투표합산 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws26/04_%EC%84%A0%ED%98%B8%EC%A7%91%ED%95%A9_%ED%88%AC%ED%91%9C%ED%95%A9%EC%82%B0.png
+ws26/05_대의민주주의_장점한계 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws26/05_%EB%8C%80%EC%9D%98%EB%AF%BC%EC%A3%BC%EC%A3%BC%EC%9D%98_%EC%9E%A5%EC%A0%90%ED%95%9C%EA%B3%84.png
+ws26/06_참여민주주의_장단점 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws26/06_%EC%B0%B8%EC%97%AC%EB%AF%BC%EC%A3%BC%EC%A3%BC%EC%9D%98_%EC%9E%A5%EB%8B%A8%EC%A0%90.png
+ws26/07_심의_선호전환 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws26/07_%EC%8B%AC%EC%9D%98_%EC%84%A0%ED%98%B8%EC%A0%84%ED%99%98.png
+ws26/08_심의민주주의_장단점 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws26/08_%EC%8B%AC%EC%9D%98%EB%AF%BC%EC%A3%BC%EC%A3%BC%EC%9D%98_%EC%9E%A5%EB%8B%A8%EC%A0%90.png
+ws26/09_문제와처방 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws26/09_%EB%AC%B8%EC%A0%9C%EC%99%80%EC%B2%98%EB%B0%A9.png
