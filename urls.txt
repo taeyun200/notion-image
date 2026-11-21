@@ -23,3 +23,10 @@ ws26/06_참여민주주의_장단점 https://raw.githubusercontent.com/taeyun200
 ws26/07_심의_선호전환 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws26/07_%EC%8B%AC%EC%9D%98_%EC%84%A0%ED%98%B8%EC%A0%84%ED%99%98.png
 ws26/08_심의민주주의_장단점 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws26/08_%EC%8B%AC%EC%9D%98%EB%AF%BC%EC%A3%BC%EC%A3%BC%EC%9D%98_%EC%9E%A5%EB%8B%A8%EC%A0%90.png
 ws26/09_문제와처방 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws26/09_%EB%AC%B8%EC%A0%9C%EC%99%80%EC%B2%98%EB%B0%A9.png
+ws27/01_자본주의_세원리 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws27/01_%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98_%EC%84%B8%EC%9B%90%EB%A6%AC.png
+ws27/02_자본주의_전개과정 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws27/02_%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98_%EC%A0%84%EA%B0%9C%EA%B3%BC%EC%A0%95.png
+ws27/03_보이지않는손_수요공급 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws27/03_%EB%B3%B4%EC%9D%B4%EC%A7%80%EC%95%8A%EB%8A%94%EC%86%90_%EC%88%98%EC%9A%94%EA%B3%B5%EA%B8%89.png
+ws27/04_시장실패_vs_수정자본주의 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws27/04_%EC%8B%9C%EC%9E%A5%EC%8B%A4%ED%8C%A8_vs_%EC%88%98%EC%A0%95%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98.png
+ws27/05_샤워실의바보 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws27/05_%EC%83%A4%EC%9B%8C%EC%8B%A4%EC%9D%98%EB%B0%94%EB%B3%B4.png
+ws27/06_하이에크_자생적질서 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws27/06_%ED%95%98%EC%9D%B4%EC%97%90%ED%81%AC_%EC%9E%90%EC%83%9D%EC%A0%81%EC%A7%88%EC%84%9C.png
+ws27/07_자본주의의한계 https://raw.githubusercontent.com/taeyun200/notion-image/main/ws27/07_%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%EC%9D%98%ED%95%9C%EA%B3%84.png
